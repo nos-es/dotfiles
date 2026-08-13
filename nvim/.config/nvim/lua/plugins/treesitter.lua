@@ -10,6 +10,7 @@ return {
 			ensure_installed = {
 				"lua",
 				"rust",
+				"c",
 				"javascript",
 				"c_sharp",
 				"python",
