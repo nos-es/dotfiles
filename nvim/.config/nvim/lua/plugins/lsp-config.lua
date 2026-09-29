@@ -56,7 +56,7 @@ return {
 		},
 		opts = {
 			-- install lsp servers from here, not the mason ui
-			ensure_installed = { "lua_ls", "rust_analyzer", "ts_ls", "stylua", "pylsp","clangd" },
+			ensure_installed = { "lua_ls", "rust_analyzer", "ts_ls", "stylua", "pylsp", "clangd", "gopls" },
 			-- automatic_enable = true, -- default is true
 		},
 	},
