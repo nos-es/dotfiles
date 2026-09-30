@@ -17,6 +17,7 @@ return {
 				"vim",
 				"vimdoc",
 				"query",
+        "go"
 			},
 			highlight = { enable = true },
 			indent = { enable = true },
