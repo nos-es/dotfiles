@@ -12,6 +12,7 @@ return {
 				"rust",
 				"c",
 				"javascript",
+				"typescript",
 				"c_sharp",
 				"python",
 				"vim",
