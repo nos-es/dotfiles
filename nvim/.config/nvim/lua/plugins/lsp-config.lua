@@ -59,12 +59,14 @@ return {
 			ensure_installed = {
 				"lua_ls",
 				"rust_analyzer",
-				"ts_ls",
+				-- old typescript lsp
+				-- "ts_ls",
 				"stylua",
 				"pylsp",
 				"clangd",
 				"gopls",
 				"roslyn_ls",
+				"tsc",
 			},
 			-- automatic_enable = true, -- default is true
 		},
