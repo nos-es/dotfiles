@@ -20,7 +20,7 @@ return {
         -- null_ls.builtins.formatting.rustfmt,
         --null_ls.builtins.diagnostics.eslint_d
         -- When warning or error:
-         require("none-ls.diagnostics.eslint_d")
+         -- require("none-ls.diagnostics.eslint_d")
 			},
 		}
 	end,
